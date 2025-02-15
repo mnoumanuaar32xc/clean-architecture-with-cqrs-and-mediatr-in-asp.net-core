@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gz4sbOEt/uc=",
+  "success": true,
+  "projectFilePath": "C:\\Nouman\\Work\\Personal\\Demo_Clean_Architecture\\DemoCleanArchitecture\\SharedModels\\SharedModels.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\999409\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

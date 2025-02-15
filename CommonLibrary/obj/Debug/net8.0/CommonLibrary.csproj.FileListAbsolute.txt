@@ -1,0 +1,17 @@
+C:\Nouman\Work\Personal\Demo_Clean_Architecture\DemoCleanArchitecture\CommonLibrary\obj\Debug\net8.0\CommonLibrary.csproj.AssemblyReference.cache
+C:\Nouman\Work\Personal\Demo_Clean_Architecture\DemoCleanArchitecture\CommonLibrary\obj\Debug\net8.0\CommonLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nouman\Work\Personal\Demo_Clean_Architecture\DemoCleanArchitecture\CommonLibrary\obj\Debug\net8.0\CommonLibrary.AssemblyInfoInputs.cache
+C:\Nouman\Work\Personal\Demo_Clean_Architecture\DemoCleanArchitecture\CommonLibrary\obj\Debug\net8.0\CommonLibrary.AssemblyInfo.cs
+C:\Nouman\Work\Personal\Demo_Clean_Architecture\DemoCleanArchitecture\CommonLibrary\obj\Debug\net8.0\CommonLibrary.csproj.CoreCompileInputs.cache
+C:\Nouman\Work\Personal\Demo_Clean_Architecture\DemoCleanArchitecture\CommonLibrary\bin\Debug\net8.0\CommonLibrary.deps.json
+C:\Nouman\Work\Personal\Demo_Clean_Architecture\DemoCleanArchitecture\CommonLibrary\bin\Debug\net8.0\CommonLibrary.dll
+C:\Nouman\Work\Personal\Demo_Clean_Architecture\DemoCleanArchitecture\CommonLibrary\bin\Debug\net8.0\CommonLibrary.pdb
+C:\Nouman\Work\Personal\Demo_Clean_Architecture\DemoCleanArchitecture\CommonLibrary\obj\Debug\net8.0\CommonLibrary.dll
+C:\Nouman\Work\Personal\Demo_Clean_Architecture\DemoCleanArchitecture\CommonLibrary\obj\Debug\net8.0\refint\CommonLibrary.dll
+C:\Nouman\Work\Personal\Demo_Clean_Architecture\DemoCleanArchitecture\CommonLibrary\obj\Debug\net8.0\CommonLibrary.pdb
+C:\Nouman\Work\Personal\Demo_Clean_Architecture\DemoCleanArchitecture\CommonLibrary\obj\Debug\net8.0\ref\CommonLibrary.dll
+C:\Nouman\Work\Personal\Demo_Clean_Architecture\DemoCleanArchitecture\CommonLibrary\bin\Debug\net8.0\DemoDomain.dll
+C:\Nouman\Work\Personal\Demo_Clean_Architecture\DemoCleanArchitecture\CommonLibrary\bin\Debug\net8.0\SharedModels.dll
+C:\Nouman\Work\Personal\Demo_Clean_Architecture\DemoCleanArchitecture\CommonLibrary\bin\Debug\net8.0\DemoDomain.pdb
+C:\Nouman\Work\Personal\Demo_Clean_Architecture\DemoCleanArchitecture\CommonLibrary\bin\Debug\net8.0\SharedModels.pdb
+C:\Nouman\Work\Personal\Demo_Clean_Architecture\DemoCleanArchitecture\CommonLibrary\obj\Debug\net8.0\CommonLi.B184AFD0.Up2Date
