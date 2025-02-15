@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Nouman\\Work\\Personal\\Demo_Clean_Architecture\\DemoCleanArchitecture\\DemoWorkerServices\\DemoWorkerServices.csproj": {}
+    "C:\\Nouman\\Work\\Personal\\Demo_Clean_Architecture\\DemoApplication\\DemoWorkerServices\\DemoWorkerServices.csproj": {}
   },
   "projects": {
-    "C:\\Nouman\\Work\\Personal\\Demo_Clean_Architecture\\DemoCleanArchitecture\\DemoWorkerServices\\DemoWorkerServices.csproj": {
+    "C:\\Nouman\\Work\\Personal\\Demo_Clean_Architecture\\DemoApplication\\DemoWorkerServices\\DemoWorkerServices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Nouman\\Work\\Personal\\Demo_Clean_Architecture\\DemoCleanArchitecture\\DemoWorkerServices\\DemoWorkerServices.csproj",
+        "projectUniqueName": "C:\\Nouman\\Work\\Personal\\Demo_Clean_Architecture\\DemoApplication\\DemoWorkerServices\\DemoWorkerServices.csproj",
         "projectName": "DemoWorkerServices",
-        "projectPath": "C:\\Nouman\\Work\\Personal\\Demo_Clean_Architecture\\DemoCleanArchitecture\\DemoWorkerServices\\DemoWorkerServices.csproj",
+        "projectPath": "C:\\Nouman\\Work\\Personal\\Demo_Clean_Architecture\\DemoApplication\\DemoWorkerServices\\DemoWorkerServices.csproj",
         "packagesPath": "C:\\Users\\999409\\.nuget\\packages\\",
-        "outputPath": "C:\\Nouman\\Work\\Personal\\Demo_Clean_Architecture\\DemoCleanArchitecture\\DemoWorkerServices\\obj\\",
+        "outputPath": "C:\\Nouman\\Work\\Personal\\Demo_Clean_Architecture\\DemoApplication\\DemoWorkerServices\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\999409\\AppData\\Roaming\\NuGet\\NuGet.Config",

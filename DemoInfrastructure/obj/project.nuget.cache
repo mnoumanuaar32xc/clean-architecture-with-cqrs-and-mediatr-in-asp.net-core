@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Yd3ARlV1o3c=",
+  "dgSpecHash": "HWAcZltEkvM=",
   "success": true,
-  "projectFilePath": "C:\\Nouman\\Work\\Personal\\Demo_Clean_Architecture\\DemoCleanArchitecture\\DemoInfrastructure\\DemoInfrastructure.csproj",
+  "projectFilePath": "C:\\Nouman\\Work\\Personal\\Demo_Clean_Architecture\\DemoApplication\\DemoInfrastructure\\DemoInfrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\999409\\.nuget\\packages\\dapper\\2.1.66\\dapper.2.1.66.nupkg.sha512",
     "C:\\Users\\999409\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Y5tf7d6AEJs=",
+  "dgSpecHash": "uxDVbyjR/gE=",
   "success": true,
-  "projectFilePath": "C:\\Nouman\\Work\\Personal\\Demo_Clean_Architecture\\DemoCleanArchitecture\\DemoWorkerServices\\DemoWorkerServices.csproj",
+  "projectFilePath": "C:\\Nouman\\Work\\Personal\\Demo_Clean_Architecture\\DemoApplication\\DemoWorkerServices\\DemoWorkerServices.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

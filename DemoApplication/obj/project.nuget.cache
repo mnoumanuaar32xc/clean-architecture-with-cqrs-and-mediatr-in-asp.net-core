@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pGLEDKZAEfI=",
+  "dgSpecHash": "xzPM1XqMBKU=",
   "success": true,
-  "projectFilePath": "C:\\Nouman\\Work\\Personal\\Demo_Clean_Architecture\\DemoCleanArchitecture\\DemoApplication\\DemoApplication.csproj",
+  "projectFilePath": "C:\\Nouman\\Work\\Personal\\Demo_Clean_Architecture\\DemoApplication\\DemoApplication\\DemoApplication.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\999409\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512",
     "C:\\Users\\999409\\.nuget\\packages\\log4net\\3.0.3\\log4net.3.0.3.nupkg.sha512",

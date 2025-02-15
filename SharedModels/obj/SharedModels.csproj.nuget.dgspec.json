@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Nouman\\Work\\Personal\\Demo_Clean_Architecture\\DemoCleanArchitecture\\SharedModels\\SharedModels.csproj": {}
+    "C:\\Nouman\\Work\\Personal\\Demo_Clean_Architecture\\DemoApplication\\SharedModels\\SharedModels.csproj": {}
   },
   "projects": {
-    "C:\\Nouman\\Work\\Personal\\Demo_Clean_Architecture\\DemoCleanArchitecture\\SharedModels\\SharedModels.csproj": {
+    "C:\\Nouman\\Work\\Personal\\Demo_Clean_Architecture\\DemoApplication\\SharedModels\\SharedModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Nouman\\Work\\Personal\\Demo_Clean_Architecture\\DemoCleanArchitecture\\SharedModels\\SharedModels.csproj",
+        "projectUniqueName": "C:\\Nouman\\Work\\Personal\\Demo_Clean_Architecture\\DemoApplication\\SharedModels\\SharedModels.csproj",
         "projectName": "SharedModels",
-        "projectPath": "C:\\Nouman\\Work\\Personal\\Demo_Clean_Architecture\\DemoCleanArchitecture\\SharedModels\\SharedModels.csproj",
+        "projectPath": "C:\\Nouman\\Work\\Personal\\Demo_Clean_Architecture\\DemoApplication\\SharedModels\\SharedModels.csproj",
         "packagesPath": "C:\\Users\\999409\\.nuget\\packages\\",
-        "outputPath": "C:\\Nouman\\Work\\Personal\\Demo_Clean_Architecture\\DemoCleanArchitecture\\SharedModels\\obj\\",
+        "outputPath": "C:\\Nouman\\Work\\Personal\\Demo_Clean_Architecture\\DemoApplication\\SharedModels\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\999409\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -5039,11 +5039,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Nouman\\Work\\Personal\\Demo_Clean_Architecture\\DemoCleanArchitecture\\Demo.Api\\Demo.Api.csproj",
+      "projectUniqueName": "C:\\Nouman\\Work\\Personal\\Demo_Clean_Architecture\\DemoApplication\\Demo.Api\\Demo.Api.csproj",
       "projectName": "Demo.Api",
-      "projectPath": "C:\\Nouman\\Work\\Personal\\Demo_Clean_Architecture\\DemoCleanArchitecture\\Demo.Api\\Demo.Api.csproj",
+      "projectPath": "C:\\Nouman\\Work\\Personal\\Demo_Clean_Architecture\\DemoApplication\\Demo.Api\\Demo.Api.csproj",
       "packagesPath": "C:\\Users\\999409\\.nuget\\packages\\",
-      "outputPath": "C:\\Nouman\\Work\\Personal\\Demo_Clean_Architecture\\DemoCleanArchitecture\\Demo.Api\\obj\\",
+      "outputPath": "C:\\Nouman\\Work\\Personal\\Demo_Clean_Architecture\\DemoApplication\\Demo.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\999409\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5061,20 +5061,20 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Nouman\\Work\\Personal\\Demo_Clean_Architecture\\DemoCleanArchitecture\\CommonLibrary\\CommonLibrary.csproj": {
-              "projectPath": "C:\\Nouman\\Work\\Personal\\Demo_Clean_Architecture\\DemoCleanArchitecture\\CommonLibrary\\CommonLibrary.csproj"
+            "C:\\Nouman\\Work\\Personal\\Demo_Clean_Architecture\\DemoApplication\\CommonLibrary\\CommonLibrary.csproj": {
+              "projectPath": "C:\\Nouman\\Work\\Personal\\Demo_Clean_Architecture\\DemoApplication\\CommonLibrary\\CommonLibrary.csproj"
             },
-            "C:\\Nouman\\Work\\Personal\\Demo_Clean_Architecture\\DemoCleanArchitecture\\DemoApplication\\DemoApplication.csproj": {
-              "projectPath": "C:\\Nouman\\Work\\Personal\\Demo_Clean_Architecture\\DemoCleanArchitecture\\DemoApplication\\DemoApplication.csproj"
+            "C:\\Nouman\\Work\\Personal\\Demo_Clean_Architecture\\DemoApplication\\DemoApplication\\DemoApplication.csproj": {
+              "projectPath": "C:\\Nouman\\Work\\Personal\\Demo_Clean_Architecture\\DemoApplication\\DemoApplication\\DemoApplication.csproj"
             },
-            "C:\\Nouman\\Work\\Personal\\Demo_Clean_Architecture\\DemoCleanArchitecture\\DemoDomain\\DemoDomain.csproj": {
-              "projectPath": "C:\\Nouman\\Work\\Personal\\Demo_Clean_Architecture\\DemoCleanArchitecture\\DemoDomain\\DemoDomain.csproj"
+            "C:\\Nouman\\Work\\Personal\\Demo_Clean_Architecture\\DemoApplication\\DemoDomain\\DemoDomain.csproj": {
+              "projectPath": "C:\\Nouman\\Work\\Personal\\Demo_Clean_Architecture\\DemoApplication\\DemoDomain\\DemoDomain.csproj"
             },
-            "C:\\Nouman\\Work\\Personal\\Demo_Clean_Architecture\\DemoCleanArchitecture\\DemoInfrastructure\\DemoInfrastructure.csproj": {
-              "projectPath": "C:\\Nouman\\Work\\Personal\\Demo_Clean_Architecture\\DemoCleanArchitecture\\DemoInfrastructure\\DemoInfrastructure.csproj"
+            "C:\\Nouman\\Work\\Personal\\Demo_Clean_Architecture\\DemoApplication\\DemoInfrastructure\\DemoInfrastructure.csproj": {
+              "projectPath": "C:\\Nouman\\Work\\Personal\\Demo_Clean_Architecture\\DemoApplication\\DemoInfrastructure\\DemoInfrastructure.csproj"
             },
-            "C:\\Nouman\\Work\\Personal\\Demo_Clean_Architecture\\DemoCleanArchitecture\\SharedModels\\SharedModels.csproj": {
-              "projectPath": "C:\\Nouman\\Work\\Personal\\Demo_Clean_Architecture\\DemoCleanArchitecture\\SharedModels\\SharedModels.csproj"
+            "C:\\Nouman\\Work\\Personal\\Demo_Clean_Architecture\\DemoApplication\\SharedModels\\SharedModels.csproj": {
+              "projectPath": "C:\\Nouman\\Work\\Personal\\Demo_Clean_Architecture\\DemoApplication\\SharedModels\\SharedModels.csproj"
             }
           }
         }

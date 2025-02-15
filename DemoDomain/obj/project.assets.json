@@ -78,11 +78,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Nouman\\Work\\Personal\\Demo_Clean_Architecture\\DemoCleanArchitecture\\DemoDomain\\DemoDomain.csproj",
+      "projectUniqueName": "C:\\Nouman\\Work\\Personal\\Demo_Clean_Architecture\\DemoApplication\\DemoDomain\\DemoDomain.csproj",
       "projectName": "DemoDomain",
-      "projectPath": "C:\\Nouman\\Work\\Personal\\Demo_Clean_Architecture\\DemoCleanArchitecture\\DemoDomain\\DemoDomain.csproj",
+      "projectPath": "C:\\Nouman\\Work\\Personal\\Demo_Clean_Architecture\\DemoApplication\\DemoDomain\\DemoDomain.csproj",
       "packagesPath": "C:\\Users\\999409\\.nuget\\packages\\",
-      "outputPath": "C:\\Nouman\\Work\\Personal\\Demo_Clean_Architecture\\DemoCleanArchitecture\\DemoDomain\\obj\\",
+      "outputPath": "C:\\Nouman\\Work\\Personal\\Demo_Clean_Architecture\\DemoApplication\\DemoDomain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\999409\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -100,8 +100,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Nouman\\Work\\Personal\\Demo_Clean_Architecture\\DemoCleanArchitecture\\SharedModels\\SharedModels.csproj": {
-              "projectPath": "C:\\Nouman\\Work\\Personal\\Demo_Clean_Architecture\\DemoCleanArchitecture\\SharedModels\\SharedModels.csproj"
+            "C:\\Nouman\\Work\\Personal\\Demo_Clean_Architecture\\DemoApplication\\SharedModels\\SharedModels.csproj": {
+              "projectPath": "C:\\Nouman\\Work\\Personal\\Demo_Clean_Architecture\\DemoApplication\\SharedModels\\SharedModels.csproj"
             }
           }
         }
